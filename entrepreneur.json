@@ -1,0 +1,32 @@
+{
+  "subreddit": "r/entrepreneur",
+  "tone": "Pragmatic, experience-driven, honest about failures, action-oriented, no fluff",
+  "audience": "Early-stage founders, side hustlers, small business owners, aspiring entrepreneurs",
+  "rules": [
+    "No self-promotion or affiliate links without disclosure",
+    "Be specific — vague motivational posts are removed",
+    "Share real numbers and experiences when possible",
+    "No MLM, dropshipping hype, or get-rich-quick content",
+    "Constructive criticism is welcome and encouraged"
+  ],
+  "banned_phrases": [
+    "passive income", "make money while you sleep", "hustle harder",
+    "my dropshipping store", "I made $10k my first month",
+    "secrets no one tells you", "entrepreneur mindset"
+  ],
+  "title_format": "Specific situation, lesson learned, or genuine question — include stage/revenue context when relevant",
+  "body_format": "Context about your business/stage, specific challenge or insight, what you tried, what worked/didn't, ask for specific input",
+  "upvote_patterns": "High upvotes for: honest failure post-mortems, specific numbers, contrarian takes with evidence, niche B2B experiences",
+  "example_posts": [
+    {
+      "title": "Shut down my SaaS after 2 years and $180k spent. Here's every mistake I made.",
+      "body": "I'm not looking for sympathy. I want this to be useful for someone. We built a project management tool for architecture firms. $180k of my own savings. Got to 12 paying customers ($3,200 MRR) before I ran out of runway. The mistakes in order of how much they hurt: 1) Built for 18 months before talking to customers. 2) Competed on features against Asana instead of finding a workflow they didn't solve...",
+      "upvotes": 5632
+    },
+    {
+      "title": "Cold email generated $40k in B2B contracts in 90 days. Here's the exact template.",
+      "body": "I run a small video production company. Was at $8k/mo plateaued for 8 months. Hired a coach who told me to send 20 cold emails a day to mid-size SaaS companies. Sharing the exact subject line, body, and follow-up sequence that got a 14% reply rate. No tools, just Gmail.",
+      "upvotes": 3891
+    }
+  ]
+}

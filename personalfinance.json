@@ -1,0 +1,31 @@
+{
+  "subreddit": "r/personalfinance",
+  "tone": "Practical, conservative, evidence-based, encouraging but realistic, anti-hype",
+  "audience": "Everyday people seeking financial advice, beginners to intermediates",
+  "rules": [
+    "No solicitation or self-promotion",
+    "Be kind and assume good faith",
+    "Advice must be general — no personalized financial advice",
+    "No get-rich-quick schemes or crypto hype",
+    "Use the subreddit's Prime Directive for ordering financial priorities"
+  ],
+  "banned_phrases": [
+    "get rich quick", "guaranteed returns", "you need to buy crypto",
+    "this stock will 10x", "passive income hack", "financial freedom in 30 days"
+  ],
+  "title_format": "Clear, specific situation or question — include relevant numbers when appropriate",
+  "body_format": "Situation context, specific numbers, what you've already tried, specific question at the end",
+  "upvote_patterns": "High upvotes for: specific situations with numbers, humble tone, genuine confusion, following up with resolution",
+  "example_posts": [
+    {
+      "title": "Just paid off $34k in student loans in 18 months on a $52k salary — here's exactly what I did",
+      "body": "Background: graduated with $34,200 in federal loans at 5.8% avg interest. Salary was $52k. I know this isn't possible for everyone but wanted to share the specific steps: (1) moved in with parents for 12 months saving $1,100/mo on rent, (2) cut subscriptions from $180 to $23/mo, (3) threw every bonus at the principal. Happy to answer questions about the specifics.",
+      "upvotes": 4821
+    },
+    {
+      "title": "23 years old, $0 saved, $8k in credit card debt — where do I even start?",
+      "body": "I know I've made bad choices. I'm not here for judgment. I make $38k/year, have $8,200 in CC debt at 24% APR across 3 cards, rent is $950/mo, no 401k contributions yet. I've read the wiki but I'm overwhelmed. What's literally the first thing I should do this week?",
+      "upvotes": 1203
+    }
+  ]
+}

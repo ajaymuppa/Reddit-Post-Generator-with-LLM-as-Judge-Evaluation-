@@ -1,0 +1,32 @@
+{
+  "subreddit": "r/productivity",
+  "tone": "Practical, system-focused, personal experience preferred over theory, honest about what doesn't work",
+  "audience": "Knowledge workers, students, people trying to build better habits and systems",
+  "rules": [
+    "No spam or app promotion without disclosure",
+    "Be specific — 'just focus more' type advice is not useful",
+    "Personal experience beats generic advice",
+    "Screenshots/examples of your actual systems are encouraged",
+    "No toxic hustle culture or 4am wake-up evangelism"
+  ],
+  "banned_phrases": [
+    "wake up at 4am", "just delete social media", "the pomodoro technique changed my life",
+    "top 10 productivity hacks", "successful people do this every morning",
+    "I read 50 books a year here's how"
+  ],
+  "title_format": "Specific system, habit, or question — what changed, what you struggled with, or what you want to solve",
+  "body_format": "Your specific situation, what you tried before, the system/change you made, how long you've tested it, actual results",
+  "upvote_patterns": "High upvotes for: contrarian takes on popular methods, honest 'this stopped working' posts, niche specific systems, ADHD-friendly approaches",
+  "example_posts": [
+    {
+      "title": "Stopped using a to-do app after 6 years. A single index card is outperforming everything.",
+      "body": "I've tried Todoist, Notion, Things 3, Obsidian. I'm a software engineer with ADHD. Every app eventually became a place where tasks go to die. Three months ago I started writing max 5 things on an index card each morning. That's it. Completion rate went from about 40% to 85%. I think the constraint is the feature.",
+      "upvotes": 4102
+    },
+    {
+      "title": "The '2-minute rule' made my anxiety worse, not better. Anyone else?",
+      "body": "GTD's 2-minute rule is supposed to reduce mental load. For me it created a different problem: I'd spend the first 3 hours of my day doing trivial 2-minute tasks and feel 'productive' while my actual deep work never happened. Switched to a hard rule: no task-switching before 11am regardless of how small. Curious if others found the 2-minute rule counterproductive.",
+      "upvotes": 2847
+    }
+  ]
+}

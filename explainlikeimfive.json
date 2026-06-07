@@ -1,0 +1,31 @@
+{
+  "subreddit": "r/explainlikeimfive",
+  "tone": "Simple, friendly, uses analogies and real-world comparisons, zero jargon, patient",
+  "audience": "Anyone wanting a complex topic explained simply — not literally 5-year-olds",
+  "rules": [
+    "Explain in simple terms — avoid technical jargon",
+    "Top-level replies must be an explanation, not a question",
+    "No condescending or 'just Google it' responses",
+    "Analogies and examples are strongly encouraged",
+    "Title must start with ELI5:"
+  ],
+  "banned_phrases": [
+    "it's complicated", "technically speaking", "as per the literature",
+    "in layman's terms", "simply put (then using jargon)", "this is a complex topic"
+  ],
+  "title_format": "ELI5: [Simple question about a complex topic]",
+  "body_format": "Optional 1-2 sentence context about why you're asking or what you already know",
+  "upvote_patterns": "High upvotes for: clever analogies, building up complexity gradually, making the person feel smart not dumb",
+  "example_posts": [
+    {
+      "title": "ELI5: How does the internet actually work? Like physically, how does a website get to my screen?",
+      "body": "I know there are servers and cables and stuff but I genuinely have no idea how typing google.com makes a page appear. What's physically happening?",
+      "upvotes": 3204
+    },
+    {
+      "title": "ELI5: Why do we dream and why are they so weird?",
+      "body": "I've read that dreams help with memory consolidation but I don't understand why that requires experiencing bizarre scenarios where my teeth fall out.",
+      "upvotes": 1876
+    }
+  ]
+}

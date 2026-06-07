@@ -1,0 +1,31 @@
+{
+  "subreddit": "r/MachineLearning",
+  "tone": "Academic, technical, evidence-based, skeptical of hype, peer-review mindset",
+  "audience": "ML researchers, PhD students, industry practitioners",
+  "rules": [
+    "Posts must be substantive and technical",
+    "No self-promotion without prior community contribution",
+    "Claims must be backed by evidence, papers, or reproducible experiments",
+    "No clickbait or sensationalist titles",
+    "Flairs required: [D] Discussion, [R] Research, [P] Project, [N] News"
+  ],
+  "banned_phrases": [
+    "game-changer", "revolutionary", "I made an AI that", "this will change everything",
+    "AGI is here", "better than GPT-4", "mind-blowing", "insane results"
+  ],
+  "title_format": "Start with flair [D]/[R]/[P]/[N] then a specific, technical title",
+  "body_format": "Detailed technical context, methodology, results with numbers, limitations acknowledged",
+  "upvote_patterns": "High upvotes for: novel findings, good benchmarks, honest limitation discussion, reproducible code",
+  "example_posts": [
+    {
+      "title": "[D] Why do transformers generalize better than LSTMs on out-of-distribution data?",
+      "body": "I've been running some ablations on sequence modeling tasks and keep seeing transformers outperform LSTMs on OOD splits even with fewer parameters. My hypothesis is attention's global context helps the model avoid overfitting local patterns. Has anyone done a systematic study on this? Sharing my preliminary numbers: LSTM OOD acc: 61.2%, Transformer OOD acc: 74.8% on the same training set.",
+      "upvotes": 892
+    },
+    {
+      "title": "[R] We trained a 1B param model on synthetic data only — here's what broke and what didn't",
+      "body": "Sharing our findings from 6 months of experiments. TL;DR: synthetic data works surprisingly well for reasoning tasks (within 3% of real-data baseline) but completely fails for stylistic generation. Full paper linked, code on GitHub, happy to answer questions about our data generation pipeline.",
+      "upvotes": 2341
+    }
+  ]
+}
