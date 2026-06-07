@@ -22,13 +22,6 @@ Pick a subreddit and a topic, and the app generates a post written to fit that c
 - **SQLite logging** — every generation and score is persisted for analysis.
 - **Eval dashboard** — a separate Streamlit + Plotly dashboard showing score trends over time and per-subreddit breakdowns.
 
-## Demo
-
-<!-- Add a screenshot: create a docs/ folder, drop an image in it, then uncomment the line below -->
-<!-- ![Reddit Post Generator](docs/screenshot.png) -->
-
-_Add a screenshot of the generator and score card here._
-
 ## Tech stack
 
 Python · Streamlit · OpenAI GPT-4o · LangChain + FAISS (few-shot retrieval) · Pydantic (structured output) · SQLite · Plotly
